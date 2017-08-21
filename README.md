@@ -17,16 +17,16 @@ Clone this repository, install dependencies, then run the project with the follo
 ```
 > git clone git@github.com:artprofi91/React-Youtube-Search.git
 > cd React-Youtube-Search
-> npm install
-> npm start
+> npm install   or   yarn install
+> npm start   or   yarn start
 ```
 
 #### Not Familiar with Git?
 Click [here](https://github.com/artprofi91/React-Youtube-Search) then download the .zip file. Extract the contents of the zip file, then open your terminal, change to the project directory and:
 
 ```
-> npm install
-> npm start
+> npm install   or   yarn install
+> npm start   or   yarn start
 ```
 
 #### Project will run on:
