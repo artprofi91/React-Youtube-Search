@@ -1,5 +1,5 @@
 # React-Youtube-Search
-This app is a part of my homework on the Udemy [Modern React with Redux] (https://www.udemy.com/react-redux/learn/v4/overview). I started this course because I've been looking for to master modern web development with React.
+This app is a part of my homework on the Udemy [Modern React with Redux](https://www.udemy.com/react-redux/learn/v4/overview). I started this course because I've been looking for to master modern web development with React.
 
 ![react](https://user-images.githubusercontent.com/28790452/29529457-64dd1236-8665-11e7-8fdd-aae07f3a3f46.gif)
 
